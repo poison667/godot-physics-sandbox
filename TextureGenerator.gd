@@ -1,0 +1,1 @@
+// Paste full TextureGenerator.gd code here from previous guide
