@@ -1,0 +1,6 @@
+[gd_scene load_steps=10 format=3 uid="uid://..."]
+
+[node name="Player" type="Node3D"]
+
+[node name="PlayerBody" type="RigidBody3D" parent="."]
+... (full scene description)
